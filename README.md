@@ -58,7 +58,8 @@ The following techniques were applied:
 ##  Dashboard Preview  
 Here’s a screenshot of the *final dashboard*:
 
-![Sale dashboard](https://github.com/user-attachments/assets/8255f526-19f6-45a4-a053-aba8cc787278)
+![sales dashboard](https://github.com/user-attachments/assets/16625b6d-13b3-463f-bd4d-94d973f6c815)
+
 
 ##  Tools Used  
 - *Microsoft Excel* (Pivot Tables, Charts, Slicers)  
